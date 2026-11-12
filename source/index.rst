@@ -1,15 +1,9 @@
-.. NWN design toolkit documentation master file, created by
-   sphinx-quickstart on Thu Nov 12 10:28:47 2026.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-NWN design toolkit documentation
+NWN Design Toolkit documentation
 ================================
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
-
+Welcome to the NWN Design Toolkit documentation.
+This documentation is the starting point for users of the toolkit.
+The documentation is structured in several parts:
 
 .. toctree::
    :maxdepth: 2
