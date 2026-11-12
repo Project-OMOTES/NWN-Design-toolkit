@@ -10,6 +10,3 @@ network to performing the right actions in the user interface.
 
    design_with_the_toolkit/design_with_the_toolkit
    step_by_step/step_by_step
-   practical usages/practical_usage
-   getting_started/getting_started
-

@@ -45,8 +45,8 @@ Topics in this section:
    Demand/demand
    Production/production
    Storage/storage
-   Heat pumps/heat_pumps
-   Thermal plots/thermal_plots_warmtekavels
+   Heat pumps/heat_pump
+   Thermal plots/thermal_plots
    Transport/transport
    Other/other
 

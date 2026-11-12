@@ -10,8 +10,6 @@ The documentation is structured in several parts:
 
   * :doc:`Design with the Toolkit <tutorials/design_with_the_toolkit/design_with_the_toolkit>` – heating transition questions => design questions for the Toolkit.
   * :doc:`Step by step <tutorials/step_by_step/step_by_step>` – design questions for the Toolkit => subsequent actions to come to answers.
-  * :doc:`Practical usage <tutorials/practical usages/practical_usage>` – subsequent actions => user interface actions in the Toolkit.
-  * :doc:`Getting started <tutorials/getting_started/getting_started>` – hands-on guide: what do you do to design a basic network?
 
 
 .. toctree::
