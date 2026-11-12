@@ -1,0 +1,10 @@
+[project]
+name = "NWN-design-toolkit-documentation"
+version = "0.9.0"
+description = "Documentation for the NWN design toolkit"
+requires-python = ">=3.15"
+dependencies = [
+    "sphinx==9.1.0",
+    "furo==2025.12.19",
+    "openpyxl>=3.1.5",
+]
